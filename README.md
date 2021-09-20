@@ -1,3 +1,3 @@
 
 
-<img src="https://github.com/jyodesh10/Booking-Mob-app/blob/main/Login.jpg" width="48">
+<img src="https://github.com/jyodesh10/Booking-Mob-app/blob/main/Login.jpg" width="108">
