@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838032778587",
+    "project_id": "booking-d114f",
+    "storage_bucket": "booking-d114f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838032778587:android:b1ae24b9f421cf3f67667e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838032778587-1gk5o854l21ssaqoutilkf4s0dfuq1qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxdXLaGYkAAJUSwyHo9OlcGSuPAdqhMmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838032778587-1gk5o854l21ssaqoutilkf4s0dfuq1qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
